@@ -1,5 +1,5 @@
 ﻿# 🎥cinema-app🎥
-This is simple simulation of cinema sevice for reservation tickets for user and do some administration things for menagment. Also that supports registration, authentication and CRUD operations
+This is simple simulation of cinema service for reservation tickets for user and do some administration things for management. Also that supports registration, authentication and CRUD operations
 ## ✍️ Detailed description of the project
 - CRUD operations for Movie, Cinema Hall, Movie Session, Order, Shopping Cart, User
 - Control classes distributed by package (Dao, Service, Dto, Model etc.)
